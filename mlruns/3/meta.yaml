@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/3
+creation_time: 1668932320839
+experiment_id: '3'
+last_update_time: 1668932320839
+lifecycle_stage: active
+name: mlflow logisticRegression model

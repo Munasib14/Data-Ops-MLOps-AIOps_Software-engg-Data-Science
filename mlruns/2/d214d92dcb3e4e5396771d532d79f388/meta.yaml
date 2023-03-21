@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/d214d92dcb3e4e5396771d532d79f388/artifacts
+end_time: 1668675244215
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: d214d92dcb3e4e5396771d532d79f388
+run_name: peaceful-yak-2
+run_uuid: d214d92dcb3e4e5396771d532d79f388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668674837372
+status: 3
+tags: []
+user_id: mohdm

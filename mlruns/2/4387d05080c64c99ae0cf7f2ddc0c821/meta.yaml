@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/4387d05080c64c99ae0cf7f2ddc0c821/artifacts
+end_time: 1668930381071
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 4387d05080c64c99ae0cf7f2ddc0c821
+run_name: enthused-colt-408
+run_uuid: 4387d05080c64c99ae0cf7f2ddc0c821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668929840855
+status: 3
+tags: []
+user_id: mohdm

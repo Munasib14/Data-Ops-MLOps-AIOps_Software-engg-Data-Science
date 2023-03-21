@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/8da1ebd074b1411a92fe6947a87423fb/artifacts
+end_time: 1668856364017
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 8da1ebd074b1411a92fe6947a87423fb
+run_name: defiant-hen-30
+run_uuid: 8da1ebd074b1411a92fe6947a87423fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668855947230
+status: 3
+tags: []
+user_id: mohdm

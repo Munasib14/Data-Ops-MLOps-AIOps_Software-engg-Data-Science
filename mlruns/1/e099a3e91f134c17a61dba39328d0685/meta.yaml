@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/e099a3e91f134c17a61dba39328d0685/artifacts
+end_time: 1668670676028
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: e099a3e91f134c17a61dba39328d0685
+run_name: abrasive-sloth-153
+run_uuid: e099a3e91f134c17a61dba39328d0685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668670671959
+status: 3
+tags: []
+user_id: mohdm

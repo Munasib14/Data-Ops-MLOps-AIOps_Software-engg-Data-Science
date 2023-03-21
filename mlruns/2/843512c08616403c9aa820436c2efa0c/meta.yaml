@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/843512c08616403c9aa820436c2efa0c/artifacts
+end_time: 1668688618752
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 843512c08616403c9aa820436c2efa0c
+run_name: bedecked-bug-891
+run_uuid: 843512c08616403c9aa820436c2efa0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668688193457
+status: 3
+tags: []
+user_id: mohdm

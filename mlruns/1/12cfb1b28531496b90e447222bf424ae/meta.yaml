@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/12cfb1b28531496b90e447222bf424ae/artifacts
+end_time: 1668928002592
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 12cfb1b28531496b90e447222bf424ae
+run_name: clean-ant-991
+run_uuid: 12cfb1b28531496b90e447222bf424ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668927992816
+status: 3
+tags: []
+user_id: mohdm

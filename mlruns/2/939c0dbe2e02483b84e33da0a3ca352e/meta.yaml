@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/939c0dbe2e02483b84e33da0a3ca352e/artifacts
+end_time: 1668930381071
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 939c0dbe2e02483b84e33da0a3ca352e
+run_name: adaptable-shoat-206
+run_uuid: 939c0dbe2e02483b84e33da0a3ca352e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668929840855
+status: 3
+tags: []
+user_id: mohdm

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/8bf9d47993404ca0adfa639701a464eb/artifacts
+end_time: 1668932173701
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 8bf9d47993404ca0adfa639701a464eb
+run_name: valuable-bear-973
+run_uuid: 8bf9d47993404ca0adfa639701a464eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668932169415
+status: 3
+tags: []
+user_id: mohdm

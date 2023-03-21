@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/d2f0c6ce39324da9ae9b2a259f6c0db5/artifacts
+end_time: 1668858765865
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: d2f0c6ce39324da9ae9b2a259f6c0db5
+run_name: caring-donkey-893
+run_uuid: d2f0c6ce39324da9ae9b2a259f6c0db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668858761446
+status: 3
+tags: []
+user_id: mohdm

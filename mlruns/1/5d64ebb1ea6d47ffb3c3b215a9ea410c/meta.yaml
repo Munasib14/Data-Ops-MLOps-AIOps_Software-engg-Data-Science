@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/5d64ebb1ea6d47ffb3c3b215a9ea410c/artifacts
+end_time: 1668669088457
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 5d64ebb1ea6d47ffb3c3b215a9ea410c
+run_name: worried-eel-89
+run_uuid: 5d64ebb1ea6d47ffb3c3b215a9ea410c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668669084491
+status: 3
+tags: []
+user_id: mohdm

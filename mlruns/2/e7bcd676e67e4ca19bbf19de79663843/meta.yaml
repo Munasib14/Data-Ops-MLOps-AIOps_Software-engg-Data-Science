@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/e7bcd676e67e4ca19bbf19de79663843/artifacts
+end_time: 1668930381071
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: e7bcd676e67e4ca19bbf19de79663843
+run_name: likeable-moose-604
+run_uuid: e7bcd676e67e4ca19bbf19de79663843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668929840855
+status: 3
+tags: []
+user_id: mohdm

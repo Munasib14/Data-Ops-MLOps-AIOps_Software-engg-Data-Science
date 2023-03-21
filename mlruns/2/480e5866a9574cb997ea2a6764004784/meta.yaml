@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/480e5866a9574cb997ea2a6764004784/artifacts
+end_time: 1668856368171
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 480e5866a9574cb997ea2a6764004784
+run_name: thundering-yak-634
+run_uuid: 480e5866a9574cb997ea2a6764004784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668855947230
+status: 3
+tags: []
+user_id: mohdm

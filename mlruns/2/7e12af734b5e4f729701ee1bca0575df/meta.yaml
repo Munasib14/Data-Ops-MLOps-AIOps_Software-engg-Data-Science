@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/7e12af734b5e4f729701ee1bca0575df/artifacts
+end_time: 1668675244215
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 7e12af734b5e4f729701ee1bca0575df
+run_name: zealous-chimp-450
+run_uuid: 7e12af734b5e4f729701ee1bca0575df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668674837372
+status: 3
+tags: []
+user_id: mohdm

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/401cd0adb2d34bf690b74b0f5b749adb/artifacts
+end_time: 1668930384849
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 401cd0adb2d34bf690b74b0f5b749adb
+run_name: merciful-carp-654
+run_uuid: 401cd0adb2d34bf690b74b0f5b749adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668929840855
+status: 3
+tags: []
+user_id: mohdm

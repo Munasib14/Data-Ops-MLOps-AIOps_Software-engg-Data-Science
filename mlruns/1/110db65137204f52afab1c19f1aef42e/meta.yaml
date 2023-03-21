@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/110db65137204f52afab1c19f1aef42e/artifacts
+end_time: 1668854564039
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 110db65137204f52afab1c19f1aef42e
+run_name: awesome-bass-712
+run_uuid: 110db65137204f52afab1c19f1aef42e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668854560233
+status: 3
+tags: []
+user_id: mohdm

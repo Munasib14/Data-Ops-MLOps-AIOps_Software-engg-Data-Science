@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/07b1c884e6ba4e609aff0e5e2ab56861/artifacts
+end_time: 1668930381071
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+run_id: 07b1c884e6ba4e609aff0e5e2ab56861
+run_name: aged-crane-480
+run_uuid: 07b1c884e6ba4e609aff0e5e2ab56861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668929840855
+status: 3
+tags: []
+user_id: mohdm

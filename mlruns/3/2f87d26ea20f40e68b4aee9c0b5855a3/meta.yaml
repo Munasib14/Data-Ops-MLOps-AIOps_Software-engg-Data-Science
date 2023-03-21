@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/3/2f87d26ea20f40e68b4aee9c0b5855a3/artifacts
+end_time: 1669089075531
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+run_id: 2f87d26ea20f40e68b4aee9c0b5855a3
+run_name: unique-fly-737
+run_uuid: 2f87d26ea20f40e68b4aee9c0b5855a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669089069470
+status: 3
+tags: []
+user_id: mohdm

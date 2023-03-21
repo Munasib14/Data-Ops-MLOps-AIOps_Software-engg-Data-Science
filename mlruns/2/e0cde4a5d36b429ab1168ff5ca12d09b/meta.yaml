@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/2/e0cde4a5d36b429ab1168ff5ca12d09b/artifacts
+deleted_time: 1668856426448
+end_time: 1668675248975
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: deleted
+run_id: e0cde4a5d36b429ab1168ff5ca12d09b
+run_name: judicious-donkey-789
+run_uuid: e0cde4a5d36b429ab1168ff5ca12d09b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668674837372
+status: 3
+tags: []
+user_id: mohdm

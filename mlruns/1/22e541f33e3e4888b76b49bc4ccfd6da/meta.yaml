@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mohdm/Downloads/MLflow_A/mlruns/1/22e541f33e3e4888b76b49bc4ccfd6da/artifacts
+end_time: 1668928184933
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 22e541f33e3e4888b76b49bc4ccfd6da
+run_name: polite-chimp-683
+run_uuid: 22e541f33e3e4888b76b49bc4ccfd6da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668928178609
+status: 3
+tags: []
+user_id: mohdm
